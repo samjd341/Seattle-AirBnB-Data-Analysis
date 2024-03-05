@@ -14,8 +14,9 @@ The modules required for this project are:
 - sklearn
 - seaborn
 
+## Data
 
-
+listings.csv - Data from Kaggle looking at AirBnB properties in the Seattle region
 
 ## Project Motivation
 
